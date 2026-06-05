@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ariarihantmedia-bit/easetoolz-seo-skill/main/assets/logo.png" width="120" alt="EaseToolz" />
 
-  <h2>Hi, I'm Arihant 👋</h2>
+  <h2>Hi, I'm RK 👋</h2>
   <p><b>Full-Stack Developer</b> · Gwalior, India</p>
 
   <p>
